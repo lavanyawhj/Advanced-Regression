@@ -12,8 +12,6 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
   
 
-- What is the background of your project?
-
   The company wants to know:
 
   - The variables which are significant in predicting the price of a house and
